@@ -15,8 +15,8 @@ const Form = () => {
   const [darkMode, setDarkMode] = useState(false);
 
   const backgroundOptions = [
-    { label: 'Admire', value: 'https://i.postimg.cc/VLVcsYZD/admire-Bac.gif' },
-    { label: 'Custom', value: ' ' },
+    { label: 'Admire', value: 'https://i.postimg.cc/VLVcsYZD/admire-Bac.gif' }
+    
   ];
 
 const subIdOptions = [
